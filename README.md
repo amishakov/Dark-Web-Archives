@@ -5,7 +5,7 @@ All public/Privately leaked Dark Web Marketplace (DNM) Scripts, Source codes and
 This archive will be a place for researchers, law enforcemet and etc to study DNMs, Fraud Markets and Common Dark Web Scams without the need to venture to
 Tor/I2P to find them, do research and etc. We'll do that for you. In this archive you can find everything found below and than some. You may have questions which will be answered in the FAQ Below the contents
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 What can you find here:
 
 Solaris - Russian Based DNM, hacked by Hold Security LLC.
@@ -39,7 +39,7 @@ Ransomware Statistics
 Potential Leads
 
 and more
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Frequently Asked Questions:
 Q. Why isn't this private?
@@ -72,6 +72,7 @@ A. Finding a reputable PHP programmer isn't hard, I've seen some doing work for 
 Q. Where can I contact you?
 A. Discord, Telegram, Twitter, Tox found at the below
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 CONTACTS:
 
