@@ -43,9 +43,11 @@ and more
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Frequently Asked Questions:
+
 Q. Why isn't this private?
 
 A. Information should remain unrestricted if it benifits all parties even bad actors, Limiting said information may cause issues, Even if bad actors have said info the chances of them being able to run long term is just not possible, Instead we plan to educate everyone. We're not here to care about drug abuse, that's a dumb idea to begin with. If we cared we'd of started doxing vendors who sell cannabis for crying out loud.
+
 
 
 Q. So how big is this going to be?
@@ -53,9 +55,11 @@ Q. So how big is this going to be?
 A. As long as cyber crime exists, we'll continue to build this archive so it'll be as big as the amount of things I can fit into it.
 
 
+
 Q. Is it safe to run the DNM Scripts?
 
 A. Yes & No, They have a vuld in them that allowed the SRC to be leaked, If you're running it locally, whitelist/blacklisting traffic or offline it's fine. 
+
 
 
 Q. So, Will this include PII of Threat Actors and Vendors?
@@ -63,9 +67,11 @@ Q. So, Will this include PII of Threat Actors and Vendors?
 A. Limited. Will be published offsite if needed.
 
 
+
 Q. Will you be adding Conti Leaks or any others in the same catagory?
 
 A. Yes & No, If we fear the leaks maybe deleted due to ToS of another platform than yes, otherwise no.
+
 
 
 Q. Will you be sharing executables?
@@ -73,9 +79,11 @@ Q. Will you be sharing executables?
 A. Yes, Password is infected (VX-Underground has the same password, so we'll keep it simple. Don't ask we won't answer).
 
 
+
 Q. Do you fear people will find the exploit used to hack the DNMs and patch it and use it to run the DNMs?
 
 A. I Have no doubt they'll be used and patched, However I am not responsable for this and since it's a public repo I'm sure MS Tracks downloads quite well.
+
 
 
 Q. Why are you stealing other people's work and publishing it?
@@ -83,9 +91,11 @@ Q. Why are you stealing other people's work and publishing it?
 A. Stealing is the incorrect term, I Am not stealing work, everything is credited to the leaker.
 
 
+
 Q. So, you're going to help criminals begin their franchise for free?
 
 A. Finding a reputable PHP programmer isn't hard, I've seen some doing work for less than US-Federal Minimum wage which is like $7.65/hr they went for $7/hr so I'm not really doing anyone a favor but saving someone idk? $100 USD at best? Servers will cost them more as any serious criminal would code their own shit rather than using some potentially vulderable script found on github.
+
 
 
 Q. Where can I contact you?
