@@ -7,21 +7,37 @@ Tor/I2P to find them, do research and etc. We'll do that for you. In this archiv
 
 
 What can you find here:
+
 Solaris - Russian Based DNM, hacked by Hold Security LLC.
+
 CannaHome - English based, Cannabis/Shrooms Marketplace
+
 2 Other Marketplaces which will be named when I can remember them
+
 Ransomware/Malware Source Codes in General
+
 Server/IP Information (TXT Files)
+
 Structures of Scam Marketplaces found through open Directories
+
 Links to where the information can be viewed.
+
 Directories Known
+
 Sensitive Information from public Directories
+
 Possible Vulds
+
 Technology Used
+
 Users (Scraped/Public Info)
+
 Ransomware Statistics
+
 .onion & .i2p Links
+
 Potential Leads
+
 and more
 
 
@@ -58,7 +74,11 @@ A. Discord, Telegram, Twitter, Tox found at the below
 
 
 CONTACTS:
+
 Discord: 3V1L R4BB1T#6982 | 1051980263346933791 (Always check my ID before you send a DM).
+
 Telegram: https://t.me/BugHunter47
+
 Tox: 906F431F8DBF8E6FF031F92289764737F29C5D2ADD5F942C47D8785151E55E6E87CDE2E7A41F (Use a note when sending an Friend Request)
+
 Twitter: https://twitter.com/D4RKR4BB1T47
