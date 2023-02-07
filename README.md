@@ -106,7 +106,7 @@ A. Discord, Telegram, Twitter, Tox found at the below
 
 CONTACTS:
 
-Discord: 3V1L R4BB1T#6982 | 1051980263346933791 (Always check my ID before you send a DM).
+Discord: Will update later
 
 Telegram: https://t.me/BugHunter47
 
