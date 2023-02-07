@@ -16,6 +16,6 @@ Hacked by an random Hacker sometime between 2019 & 2021 the hacker leaked the da
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# The other 2
+# Eckmar's DNM script
 
-Unfortunatly Due to bad memory I am unable to specify the other 2 we have currently.
+One of the last and Final Editions for some time until others come about this will be one of our final imports to this folder so please enjoy this
