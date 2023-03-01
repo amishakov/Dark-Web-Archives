@@ -19,3 +19,10 @@ Hacked by an random Hacker sometime between 2019 & 2021 the hacker leaked the da
 # Eckmar's DNM script
 
 One of the last and Final Editions for some time until others come about this will be one of our final imports to this folder so please enjoy this
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# KILOS DNM (Partial)
+
+This is not a full SRC Leak, However it contains the Telegram Gambling bot, 1 Proxy IP and given some luck we may have some Metadata to begin tracking.
+There'll be a small upload of intel we know about the CEO as well.
