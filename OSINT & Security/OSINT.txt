@@ -43,3 +43,4 @@ dark.fail a site for verified Dark Net Links
 darknetlive.com - Another good place for Dark Web Related News, Arrests, Verified Links and Etc
 Dread (Hidden Service, See one of the above links to find a mirror)
 scamsearch.io 4+ Million Scammers for you to search
+https://beta.onyphe.io/
