@@ -18,7 +18,10 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/andreasindal/laravel-markdown/zipball/9b71f768e2327806a6ef2c7ecb091138702b9f2e",
                 "reference": "9b71f768e2327806a6ef2c7ecb091138702b9f2e",
-                "shasum": ""
+            
+"require": {
+  "league/flysystem": "1.1.4"
+}    "shasum": ""
             },
             "require": {
                 "erusev/parsedown": "^1.6",
