@@ -3112,36 +3112,39 @@
         },
         {
             "name": "phpxmlrpc/phpxmlrpc",
-            "version": "4.3.1",
+            "version": "4.9.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/gggeek/phpxmlrpc.git",
-                "reference": "95f8828db62a6cb0e7a725136e75f12536892082"
+                "reference": "805d727670b7a7c08c9f129327482f13a4c1ea11"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/gggeek/phpxmlrpc/zipball/95f8828db62a6cb0e7a725136e75f12536892082",
-                "reference": "95f8828db62a6cb0e7a725136e75f12536892082",
+                "url": "https://api.github.com/repos/gggeek/phpxmlrpc/zipball/805d727670b7a7c08c9f129327482f13a4c1ea11",
+                "reference": "805d727670b7a7c08c9f129327482f13a4c1ea11",
                 "shasum": ""
             },
             "require": {
                 "ext-xml": "*",
-                "php": ">=5.3.0"
+                "php": "^5.3.0 || ^7.0 || ^8.0"
+            },
+            "conflict": {
+                "phpxmlrpc/extras": "<= 0.6.3"
             },
             "require-dev": {
-                "codeclimate/php-test-reporter": "dev-master",
-                "docbook/docbook-xsl": "~1.78",
                 "ext-curl": "*",
+                "ext-dom": "*",
                 "ext-mbstring": "*",
-                "indeyets/pake": "~1.99",
-                "phpunit/phpunit": ">=4.0.0, <6.0.0",
+                "phpunit/phpunit": "^4.8 || ^5.0 || ^8.5.14",
                 "phpunit/phpunit-selenium": "*",
-                "sami/sami": "~3.1"
+                "yoast/phpunit-polyfills": "*"
             },
             "suggest": {
                 "ext-curl": "Needed for HTTPS and HTTP 1.1 support, NTLM Auth etc...",
                 "ext-mbstring": "Needed to allow reception of requests/responses in character sets other than ASCII,LATIN-1,UTF-8",
-                "ext-zlib": "Needed for sending compressed requests and receiving compressed responses, if cURL is not available"
+                "ext-zlib": "Needed for sending compressed requests and receiving compressed responses, if cURL is not available",
+                "phpxmlrpc/extras": "Adds more featured Server classes and other useful bits",
+                "phpxmlrpc/jsonrpc": "Adds support for the JSON-RPC protocol"
             },
             "type": "library",
             "autoload": {
@@ -3154,12 +3157,13 @@
                 "BSD-3-Clause"
             ],
             "description": "A php library for building xmlrpc clients and servers",
-            "homepage": "http://gggeek.github.io/phpxmlrpc/",
+            "homepage": "https://gggeek.github.io/phpxmlrpc/",
             "keywords": [
                 "webservices",
+                "xml-rpc",
                 "xmlrpc"
             ],
-            "time": "2018-01-20T15:17:09+00:00"
+            "time": "2022-12-18T21:47:48+00:00"
         },
         {
             "name": "predis/predis",
@@ -4177,6 +4181,7 @@
             ],
             "description": "Provides tools to ease debugging PHP code",
             "homepage": "https://symfony.com",
+ dependabot/composer/Marketplaces---Archive/eckmar/symfony/http-kernel-4.3.11
             "funding": [
                 {
                     "url": "https://symfony.com/sponsor",
@@ -4193,6 +4198,10 @@
             ],
             "abandoned": "symfony/error-handler",
             "time": "2022-07-28T16:29:46+00:00"
+
+            "abandoned": "symfony/error-handler",
+            "time": "2019-03-10T17:09:50+00:00"
+ main
         },
         {
             "name": "symfony/event-dispatcher",
@@ -4908,6 +4917,7 @@
                 }
             },
             "autoload": {
+dependabot/composer/Marketplaces---Archive/eckmar/symfony/http-kernel-4.3.11
                 "files": [
                     "bootstrap.php"
                 ],
@@ -4990,15 +5000,22 @@
                 }
             },
             "autoload": {
+
+ main
                 "files": [
                     "bootstrap.php"
                 ],
                 "psr-4": {
+ dependabot/composer/Marketplaces---Archive/eckmar/symfony/http-kernel-4.3.11
                     "Symfony\\Polyfill\\Intl\\Normalizer\\": ""
                 },
                 "classmap": [
                     "Resources/stubs"
                 ]
+
+                    "Symfony\\Polyfill\\Intl\\Idn\\": ""
+                }
+ main
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
@@ -5148,6 +5165,7 @@
                 }
             },
             "autoload": {
+ dependabot/composer/Marketplaces---Archive/eckmar/symfony/http-kernel-4.3.11
                 "files": [
                     "bootstrap.php"
                 ],
@@ -5221,15 +5239,21 @@
                 }
             },
             "autoload": {
+main
                 "files": [
                     "bootstrap.php"
                 ],
                 "psr-4": {
+ dependabot/composer/Marketplaces---Archive/eckmar/symfony/http-kernel-4.3.11
                     "Symfony\\Polyfill\\Php73\\": ""
                 },
                 "classmap": [
                     "Resources/stubs"
                 ]
+
+                    "Symfony\\Polyfill\\Php72\\": ""
+                }
+ main
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
