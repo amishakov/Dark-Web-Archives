@@ -1,6 +1,5 @@
 OSINTFramework.com
 Dogpile
-IntelligenceX 
 Shodan.io
 Zoomeye.org
 Censys.io
@@ -12,7 +11,7 @@ Google.com
 Local News Papers
 Local News Stations
 Voting Records
-DataBreaches (BreachForums, Dehashed, IntelX etc).
+DataBreaches (BreachForums, Dehashed etc).
 Followers/Followings - Use to find Mutal Connections and map out possible flaws in OPSEC or security
 Snyk.io - Vuln scanner 
 Hostedscan.com
@@ -34,7 +33,6 @@ timeanddate.com - Can be used to quickly reference where to find where someone's
 translate.google.com
 translate.yandex.com/ocr - Web Version of Google Translate doesn't support images but Yandex does.
 Exploit-DB.com
-BreachForums (Current domain: breached.vc) - Full of Hackers, Databases, Leads, Credential Stuffing List and etc
 xss.is - Russian Hacking Forum found of Breached
 Exploit.in - Another Russian Hacking Forum
 github.com/fastfire/deepdarkCTI - For all your Cyber Crime Lookup Needs
