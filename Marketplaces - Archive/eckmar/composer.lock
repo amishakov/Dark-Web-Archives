@@ -7777,4 +7777,7 @@ main
     },
     "platform-dev": [],
     "plugin-api-version": "1.1.0"
+"require": {
+  "laravel/framework": "6.20.44"
+}
 }

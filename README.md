@@ -6,9 +6,9 @@ This archive will be a place for researchers, law enforcemet and etc to study DN
 Tor/I2P to find them, do research and etc. We'll do that for you. In this archive you can find everything found below and than some. You may have questions which will be answered in the FAQ Below the contents
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Update: 
 
-# Update: Fixed CannaHome, Ekmer's script, Solaris is being a bitch so don't expect it to work properly. Everything else should.
-
+Solis is still broken & I do not plan to fix this instead I'll leave a .txt file with the errors... However I fucked the code up locally so no updates will be pushed until it's addressed, Given how many "Path is too long" errors were thrown and me being lazy, it'll be a moment. Sorry for the inconvinece please blame microsoft for their bloted OS & Mozzila for being resource heavy. If it did what It asked, when it was asked... I'd be happy but sadly it doesn't wanna be useful
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 What can you find here:
 
