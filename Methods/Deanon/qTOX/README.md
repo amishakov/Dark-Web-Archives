@@ -6,14 +6,20 @@ In QTox for Windows one may trigger an IP/DNS Leak through basic Social Engineer
 # Requirements
 
 QTox https://github.com/qTox/qTox/blob/master/README.md#qtox
+
 Glasswire IDS or any Traffic Anaylizer https://www.glasswire.com/
+
 Social Skills or Creativity
+
 VPN or Remote Server
+
 Virtual Machine if no Server is being used
+
 
 # Ransomware 
 
 I've done this with a new variant of Ransomware It's unnamed but dude didn't even use a VPN, Leading me to his doorstep in Centeral Ukraine. This is a walk through for social engineering attempts.
+
 
 "Prove it works" Method: Simple Method, Send me a video but I don't click links, or alternatively they may give you login credentials (How I obtained NoEscape Credentials lmao). Act like you wanna become an affiliate butneed to ensure it works.
 
