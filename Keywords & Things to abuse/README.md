@@ -4,10 +4,14 @@ We didn't wanna publish it but sadly we felt the urge that with our retirement l
 
 
 Here's a method on Tracking Pedo domains down (We recommend you pay the $49 one-time payment for shodan and make accounts on all sites below).
-Hunter.how
-shodan.io
-zoomeye.org
-search.censys.io
+
+https://Hunter.how
+
+https://shodan.io
+
+https://zoomeye.org
+
+https://search.censys.io
 
 
 A list of dorks:
@@ -15,8 +19,11 @@ A list of dorks:
 # Shodan
 
 http.html:
+
 http.title:
+
 http.hash:
+
 http.html_hash:
 
 # Censys
@@ -27,9 +34,13 @@ http.html_hash:
 
 # Hunter How 
 domain=""
+
 web.title=""
+
 web.body=""
+
 header=""
+
 favicon_hash=""
 
 
@@ -37,9 +48,13 @@ favicon_hash=""
 We strongly recommend an Encrypted VM and VPN and all purchases for subscriptions to be made with Prepaid Debit cards or Cryptocurrency, we also recommend kycnot.me for any currency purchases that do not require KYC (Know Your Customer Policies). 
 
 "Rape"
+
 "Jailbait"
+
 "Teen Leaks"
+
 "Lolicon"
+
 "Papa Pervs"
 
 
