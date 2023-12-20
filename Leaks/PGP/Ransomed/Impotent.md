@@ -12,6 +12,11 @@ And yes, I understand this key is not gonna be worth anyones time and yeah that 
 
 Some people should not be fucked  with and one of them is me, the other is your affiliates Marcus, Teodor and whomever else. Now this is your Public & Private PGP Keys and sure, I get it you are not using it any more which is fine it serves as a reminder to quit scamming people and quit fucking with your affiliates because this will not be the last time
 
+
+# Happy Holidays From the Kravchenko's & Egert's
+
+![](https://c.tenor.com/FZC3c3q9apEAAAAd/tenor.gif)
+
 # Public Key
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -103,6 +108,4 @@ rIvDFS9rjQ==
 =M67Q
 -----END PGP PRIVATE KEY BLOCK-----
 
-# Happy Holidays From the Kravchenko's & Egert's
 
-![](https://c.tenor.com/FZC3c3q9apEAAAAd/tenor.gif)
