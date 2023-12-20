@@ -3,6 +3,9 @@
 Backstory: Impotent (Whist under his RansomedSupport account) confirmed the keys are his own. Now, let us discuss  this problem. You see, Marcus Teodor or whomever else has a problem with not being playing nice, Attempting to defraud me but was adverted due to common sense as he pulled we have a buyer but he's taking a bit to pay method which is a common scam that's as old as time itself. What an amusing thing, they made off with about sixty thousand US Dollars. However got scammed by Blackforums for sixty bucks. 
 
 And that leads us to this leak, Well you see they decided to fuck with their affiliates and this is a result and I know your face looks like mine did when I read how dumb this is. 
+
+![](https://media1.tenor.com/images/0a1acd3b9dfc037bacf6df26f5603dbf/tenor.gif)
+
 And yes, I understand this key is not gonna be worth anyones time and yeah that is perfectly ok its not supposed to be. It is however supposed to be a reminder to be careful who you fuck over.
 
 ## A Message to Ransomed
@@ -101,4 +104,5 @@ rIvDFS9rjQ==
 -----END PGP PRIVATE KEY BLOCK-----
 
 # Happy Holidays From the Kravchenko's & Egert's
+
 ![](https://media1.tenor.com/m/FZC3c3q9apEAAAAd/no-witness-santa-gun.gif)
