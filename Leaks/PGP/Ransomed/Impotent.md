@@ -105,4 +105,4 @@ rIvDFS9rjQ==
 
 # Happy Holidays From the Kravchenko's & Egert's
 
-![](https://media1.tenor.com/m/FZC3c3q9apEAAAAd/no-witness-santa-gun.gif)
+![](https://c.tenor.com/FZC3c3q9apEAAAAd/tenor.gif)
